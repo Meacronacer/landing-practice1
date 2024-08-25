@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+	--neutral---zircon: #f8f9ff;
+	--neutral---alto: #d8d8d8;
+	--neutral---mine-shaft: #2d2d2d;
+	--cta---observatory: #009379;
+	--cta---aqua-squeeze: #e5f4f2;
+	--accent---sweet-corn: #f8d57e;
+	--accent---mandys-pink: #f2bfaf;
+	--accent---persimmon: #ff6250;
+}
